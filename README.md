@@ -5,4 +5,4 @@ O objetivo deste projeto é explorar os conceitos básicos do desenvolvimento de
 
 Apesar de ser uma landing page simples, pude explorar conceitos de <b>grid</b> e <b>flexbox</b>, animações e transições, entre outras técnologias úteis e atuais do mercado.
 
-Confira o site pelo link: https://guimats.github.io/landing-page-CSS/
+<b>Confira o site pelo link: https://guimats.github.io/landing-page-CSS/</b>
